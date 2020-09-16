@@ -2,7 +2,7 @@
 import React from 'react';
 //Bootstrap
 import Navbar from 'react-bootstrap/Navbar'
-import Container from 'react-bootstrap/Container'
+
 
 function NavBar(){
 	
